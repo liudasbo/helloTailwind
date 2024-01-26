@@ -24,4 +24,12 @@
   .active-nav-item {
     @apply text-accent border-b-2 border-accent;
   }
+
+  .nav-item--mobile {
+    @apply rounded w-full cursor-pointer p-2 px-4 text-lg;
+  }
+
+  .active-nav-item--mobile {
+    @apply bg-secondary font-medium;
+  }
 }
