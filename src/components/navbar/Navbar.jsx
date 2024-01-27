@@ -74,7 +74,7 @@ function Navbar() {
                   to={item}
                   spy={true}
                   smooth={true}
-                  offset={-80}
+                  offset={10}
                   duration={500}
                 >
                   {item}
