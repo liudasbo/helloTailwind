@@ -28,7 +28,7 @@ export default function About() {
           />
         </div>
 
-        <div className="bg-white rounded mt-16 flex-row sm:flex p-10 sm:p-10">
+        <div className="bg-white rounded mt-16 flex-row sm:flex p-10 sm:p-10 shadow-md">
           <div className="flex border-b-2 border-gray-300 sm:border-b-0 sm:border-r-2 p-4 py-8 sm:p-4 sm:w-full">
             <div className="flex items-center w-40 m-auto sm:w-auto">
               <FaUsers className="size-10 bg-secondary text-primary rounded-full p-2 mr-5" />
