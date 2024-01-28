@@ -1,9 +1,9 @@
-import Pricing from "./components/Pricing/Pricing";
-import Testimonial from "./components/Testimonial/Testimonial";
-import About from "./components/about/About";
-import Feature from "./components/feature/Feature";
-import Footer from "./components/footer/Footer";
-import Navbar from "./components/navbar/Navbar";
+import Pricing from "./components/Pricing/Pricing.jsx";
+import Testimonial from "./components/Testimonial/Testimonial.jsx";
+import About from "./components/about/About.jsx";
+import Feature from "./components/feature/Feature.jsx";
+import Footer from "./components/footer/Footer.jsx";
+import Navbar from "./components/navbar/Navbar.jsx";
 
 function App() {
   return (
