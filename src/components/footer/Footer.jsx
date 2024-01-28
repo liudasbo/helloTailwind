@@ -7,7 +7,7 @@ export default function Footer() {
     <footer className="bg-white shadow-2xl flex border-t border-secondary text-gray-500 ">
       <div className="margin-rules w-full grid md:grid-cols-12 grid-cols-3 grid-rows-2 md:grid-rows-1 my-16 gap-5">
         <div className="flex flex-col gap-6 items-start md:col-span-4 col-span-3 mb-10 md:m-0">
-          <img src="../../assets/logo.svg" alt="logo" className="h-10" />
+          <img src="/assets/logo.svg" alt="logo" className="h-10" />
           <p className="font-medium">
             <span className="text-primary font-bold">WestVPN</span> is a private
             virtual network that has unique features and has high security.

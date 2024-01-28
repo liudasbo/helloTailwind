@@ -6,7 +6,7 @@ export default function Feature() {
       <div className="margin-rules flex w-full my-16">
         <div className="flex sm:flex-row flex-col m-auto">
           <img
-            src="../../assets/features-illustration.svg"
+            src="/assets/features-illustration.svg"
             alt="features illustration"
             className="object-fit flex w-[50%] sm:w-[40%] m-auto mb-8 sm:mb-auto"
           />
