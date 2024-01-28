@@ -4,7 +4,7 @@ export default function Pricing() {
   return (
     <section name="Pricing" className="bg-background">
       <div className="margin-rules flex">
-        <div className="w-full mt-16">
+        <div className="w-full">
           <div className="text-center flex flex-col gap-5">
             <h3 className="font-bold text-4xl text-text">Plans & Pricing</h3>
             <p className="text-gray-700">

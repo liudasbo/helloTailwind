@@ -3,7 +3,7 @@ import TestimonialSlider from "./TestimonialSlider";
 export default function Testimonial() {
   return (
     <section name="Testimonial" className="flex bg-background">
-      <div className="margin-rules flex mt-14">
+      <div className="margin-rules flex my-14">
         <div className="flex flex-col w-full">
           <div className="text-center m-auto flex flex-col gap-5">
             <h1 className="font-bold text-4xl text-text">

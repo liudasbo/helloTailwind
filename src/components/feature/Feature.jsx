@@ -3,15 +3,15 @@ import { FaCheckCircle } from "react-icons/fa";
 export default function Feature() {
   return (
     <section name="Feature" className="bg-background flex">
-      <div className="margin-rules flex mt-20">
-        <div className="flex sm:flex-row flex-col w-full justify-between">
+      <div className="margin-rules flex w-full my-16">
+        <div className="flex sm:flex-row flex-col m-auto">
           <img
             src="/src/assets/features-illustration.svg"
             alt="features illustration"
-            className="object-fit w-4/5 sm:w-2/5 m-auto mb-10 sm:m-0"
+            className="object-fit flex w-[50%] sm:w-[40%] m-auto mb-8 sm:mb-auto"
           />
 
-          <div className="flex flex-col gap-5 sm:w-[600px] sm:ml-20">
+          <div className="flex flex-col gap-5 sm:w-[50%] justify-center">
             <h3 className="text-4xl text-text font-medium ">
               Explore Our Abundance of Features
             </h3>

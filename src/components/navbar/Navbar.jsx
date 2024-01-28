@@ -57,7 +57,7 @@ function Navbar() {
         navItems={navItems}
       />
 
-      <div className="bg-background w-full sticky top-0">
+      <div className="bg-background w-full sticky top-0 z-30">
         <nav className="flex items-center h-20 text-text px-6 py-4 sm:px-12 lg:px-36 transition ease-out duration-500">
           <img
             src={logo}
