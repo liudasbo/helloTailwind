@@ -37,3 +37,12 @@
     @apply w-full lg:px-36 sm:px-12 px-6 py-2 sm:py-10;
   }
 }
+
+.slick-list {
+  display: flex !important;
+  flex-direction: column;
+}
+
+.slick-slide {
+  display: flex !important;
+}
