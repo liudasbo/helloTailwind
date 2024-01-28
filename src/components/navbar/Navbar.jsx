@@ -3,7 +3,7 @@ import { IoMenu } from "react-icons/io5";
 import { IoIosClose } from "react-icons/io";
 import { Link, Events, scrollSpy } from "react-scroll";
 import React, { useEffect } from "react";
-import MobileNav from "./MobileNav";
+import MobileNav from "./MobileNav.jsx";
 
 function Navbar() {
   useEffect(() => {
