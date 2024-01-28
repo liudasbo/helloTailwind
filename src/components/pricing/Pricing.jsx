@@ -1,4 +1,5 @@
 import { FaCheck } from "react-icons/fa6";
+import dataIllustrationSvg from "../../assets/data-illustration.svg";
 
 export default function Pricing() {
   return (
@@ -18,7 +19,7 @@ export default function Pricing() {
               <div className="p-6 text-center text-text flex flex-col h-full">
                 <p className="font-bold text-2xl mb-8">Free Plan</p>
                 <img
-                  src="/assets/data-illustration.svg"
+                  src={dataIllustrationSvg}
                   alt="data illustration"
                   className="w-[60%] mx-auto sm:w-[80%] mb-4"
                 />
@@ -51,7 +52,7 @@ export default function Pricing() {
               <div className="p-6 text-center text-text flex flex-col h-full">
                 <p className="font-bold text-2xl mb-8">Standart Plan</p>
                 <img
-                  src="/assets/data-illustration.svg"
+                  src={dataIllustrationSvg}
                   alt="data illustration"
                   className="w-[60%] mx-auto sm:w-[80%] mb-4"
                 />
@@ -88,7 +89,7 @@ export default function Pricing() {
               <div className="p-6 text-center text-text flex flex-col h-full">
                 <p className="font-bold text-2xl mb-8">Ultra Plan</p>
                 <img
-                  src="/assets/data-illustration.svg"
+                  src={dataIllustrationSvg}
                   alt="data illustration"
                   className="w-[60%] mx-auto sm:w-[80%] mb-4"
                 />

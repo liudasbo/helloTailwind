@@ -1,6 +1,7 @@
 import { FaUsers } from "react-icons/fa";
 import { IoLocationSharp } from "react-icons/io5";
 import { HiServerStack } from "react-icons/hi2";
+import securityIllustrationSvg from "../../assets/security-illustration.svg";
 
 export default function About() {
   return (
@@ -22,7 +23,7 @@ export default function About() {
           </div>
 
           <img
-            src="/assets/security-illustration.svg"
+            src={securityIllustrationSvg}
             alt="illustration"
             className="object-fit lg:w-1/2 md:w-2/5 h-auto sm:w-1/2"
           />
