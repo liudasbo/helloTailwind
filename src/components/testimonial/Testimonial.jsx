@@ -1,4 +1,4 @@
-import TestimonialSlider from "./TestimonialSlider";
+import TestimonialSlider from "./TestimonialSlider.jsx";
 
 export default function Testimonial() {
   return (
