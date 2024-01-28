@@ -22,7 +22,7 @@ export default function About() {
           </div>
 
           <img
-            src="/src/assets/security-illustration.svg"
+            src="../../assets/security-illustration.svg"
             alt="illustration"
             className="object-fit lg:w-1/2 md:w-2/5 h-auto sm:w-1/2"
           />
