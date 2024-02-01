@@ -31,7 +31,7 @@ export default function MobileNav({
   return (
     <div
       id="mobileNav"
-      className="fixed z-10 bg-background w-full ease-in-out duration-500 top-20 right-0 translate-x-full"
+      className="fixed z-40 bg-background w-full ease-in-out duration-500 top-20 right-0 translate-x-full"
     >
       <div className="h-screen flex flex-col">
         <ul className="mx-6 my-2 flex flex-col gap-2">
