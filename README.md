@@ -1,8 +1,36 @@
-# React + Vite
+# Hello Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### About the project
 
-Currently, two official plugins are available:
+React website created for the Tailwind CSS learning process.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<details>
+<summary>Desktop screenshot</summary>
+  <ol>
+    <img src="src/assets/desktop-ss.png" alt="desktop screenshot">
+  </ol>
+</details>
+<details>
+  <summary>Mobile screenshot</summary>
+  <ol>
+    <img src="src/assets/mobile-ss.png" alt="mobile screenshot">
+  </ol>
+</details>
+
+### [Live preview](https://hello-tailwind-iota.vercel.app/)
+
+---
+
+### Built With
+
+- React
+- Vite
+- Tailwind CSS
+- React Scroll
+- React Slick
+
+---
+
+### Resources
+
+- Illustrations was provided by [Storyset](https://storyset.com/)
